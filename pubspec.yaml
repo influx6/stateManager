@@ -1,0 +1,8 @@
+name: statemanager
+version: 0.0.1
+author: Alexander Ewetumo<trinoxf@gmail.com>
+description: A simple state manager object
+homepage: http://github.com/influx6/statemanager.dart
+dependencies:
+  hub: any
+  invocable: any
